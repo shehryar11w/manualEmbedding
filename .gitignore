@@ -2,3 +2,5 @@
 /.pt
 glove.6B.100d.txt
 text8_embeddings.pt
+config.bat
+node_modules
